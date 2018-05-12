@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37115'
     url: http://www.gutenberg.org/2009/agents/37115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34602#The-Practical-Garden-BookCommonest-Things-about-the-House-and-Garden
 gutenberg_issued: '2010-12-08'
 gutenberg_type: Text
 identifiers:
